@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta Boca Juniors",
+        "img": "./img/CamisetaBocaJuniors.jpg",
+        "precio": 10000
+    },
+    {
+        "id": 2,
+        "nombre": "Camiseta Manchester United",
+        "img": "./img/CamisetaManchesterUnited.jpg",
+        "precio": 5000
+    },
+    {
+        "id": 3,
+        "nombre": "Camiseta Manchester City",
+        "img": "./img/CamisetaManchesterCity.jpg",
+        "precio": 5000
+    },
+    {
+        "id": 4,
+        "nombre": "Camiseta Real Madrid",
+        "img": "./img/CamisetaRealMadrid.jpg",
+        "precio": 4000
+    },
+    {
+        "id": 5,
+        "nombre": "Camiseta Barcelona",
+        "img": "./img/CamisetaBarcelona.jpg",
+        "precio": 3000
+    },
+    {
+        "id": 6,
+        "nombre": "Camiseta Milan",
+        "img": "./img/CamisetaMilan.jpg",
+        "precio": 3000
+    },
+    {
+        "id": 7,
+        "nombre": "Camiseta Inter de Milan",
+        "img": "./img/CamisetaInterMilan.png",
+        "precio": 3000
+    },
+    {
+        "id": 8,
+        "nombre": "Camiseta de Nacional",
+        "img": "./img/CamisetaNacional.jpg",
+        "precio": 5000
+    },
+    {
+        "id": 9,
+        "nombre": "Camiseta de Peñarol",
+        "img": "./img/CamisetaPenarol.jpg",
+        "precio": 5000
+    }
+]
